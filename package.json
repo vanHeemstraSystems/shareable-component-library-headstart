@@ -1,6 +1,9 @@
 {
   "name": "shareable-component-library-headstart",
   "version": "1.0.0",
+  "scripts" : {
+    "start": "start-storybook -p 9001 -c .storybook" 
+  },
   "devDependencies": {
     "@babel/core": "7.8.7",
     "@babel/preset-env": "7.8.7",
