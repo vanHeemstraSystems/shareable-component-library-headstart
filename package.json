@@ -1,4 +1,9 @@
 {
   "name": "shareable-component-library-headstart",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "@babel/core": "7.8.7",
+    "@babel/preset-env": "7.8.7",
+    "@babel/preset-react": "7.8.3"
+  }
 }
